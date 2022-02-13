@@ -1,0 +1,13 @@
+* From using student_list.php file user can view all detials of exisring students.
+
+* By clicking add student button user can add new record to the database.
+
+* User can edit existing student details by using edit button wich appear on the student_list.php file .
+
+* Existing student can remove from database by using delete button wich availble on student_list.php file. 
+
+* studentcontroller.php use to handle class and functions.
+
+* student.php file use to handle user input data and call relavant functions wich include in studentcontroller.php file.
+
+* user have to import sql file into mysql for implement database.
